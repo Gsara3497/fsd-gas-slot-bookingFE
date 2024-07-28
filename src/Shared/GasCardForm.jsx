@@ -65,7 +65,7 @@ const GasCardForm = () => {
   
     try {
       const res = await axios.post(
-        "https://gas-slot-booking-app-backend.onrender.com/api/user/booking",
+        "https://https://gas-slot-booking.onrender.com/api/user/booking",
         payload
       );
       setMessage(res.data.message);
@@ -81,7 +81,7 @@ const GasCardForm = () => {
             handler: async (response) => {
               try {
                 await axios.post(
-                  "https://gas-slot-booking-app-backend.onrender.com/api/user/update-payment-status",
+                  "https://https://gas-slot-booking.onrender.com/api/user/update-payment-status",
                   {
                     orderId: response.razorpay_order_id,
                     paymentId: response.razorpay_payment_id,
