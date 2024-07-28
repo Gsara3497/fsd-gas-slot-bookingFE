@@ -12,7 +12,7 @@ Step 3: To create coding for gas slot booking app to the project.
 
 step 4: Then open terminal -> npm install next npm run dev to create web page for the result.
 
-Step 5: Then we can see the gas slot booking app for github
+Step 5: Then we can see the gas slot booking app for github[ https://github.com/Gsara3497/fsd-gas-slot-bookingFE.git ]
 
 ## Technologies Used
 
