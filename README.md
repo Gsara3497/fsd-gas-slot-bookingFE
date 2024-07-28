@@ -14,6 +14,8 @@ step 4: Then open terminal -> npm install next npm run dev to create web page fo
 
 Step 5: Then we can see the gas slot booking app for github[ https://github.com/Gsara3497/fsd-gas-slot-bookingFE.git ]
 
+netlify url:https://gggas-slot-app.netlify.app/
+
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
