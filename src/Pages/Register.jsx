@@ -48,7 +48,7 @@ const Register = () => {
     try {
       await axios
         .post(
-          "https://gas-slot-booking-app-backend.onrender.com/api/user/register-user",
+          "https://https://gas-slot-booking.onrender.com/api/user/register-user",
           payload
         )
         .then((res) => setMessage(res.data.message))
